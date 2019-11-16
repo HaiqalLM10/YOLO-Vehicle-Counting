@@ -1,3 +1,10 @@
+Aplikasi ini dijalankan dengan library OpenCV, bahasa pemrograman C, Framework Darknet dan Algoritma Object Detection You Only Look Once (YOLO)
+
+![Output Awal](https://1.bp.blogspot.com/-NlfmHsPTsfY/Xc_dUsDMTaI/AAAAAAAALuo/6mACm6h8Psk5Hi2k5uOOlqyrsCl7y3AWACEwYBhgL/s1600/yolo1.png)
+
+![Output Akhir](https://1.bp.blogspot.com/-VhLGPnmg09A/Xc_dUbEYl_I/AAAAAAAALuk/HxbZ7Cd7xNszmTqYjbqpyOoPmve_sK7GgCLcBGAsYHQ/s1600/yolo2.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------
 # Yolo-v2 modified for microscopy (Windows and Linux version).
 
 This network is used in unison with the Automated Microscopy Control Algorithm (AMCA) located in the following repository: https://github.com/dwaithe/amca. This repository is forked from Linux-version: https://github.com/pjreddie/darknet
